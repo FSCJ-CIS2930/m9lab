@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+Lib/site-packages/*
+share/*
+pyvenv.cfg
